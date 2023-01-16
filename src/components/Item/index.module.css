@@ -1,0 +1,10 @@
+.delBtn{
+    background-color: rgb(225, 122, 122);
+    border-radius: 4px;
+}
+.delBtn:hover{
+    background-color: white;
+}
+.item{
+    padding: 10px;
+}
